@@ -22,9 +22,9 @@
 		<form action="actions/procurarProdutos.php" method="post">
 			<input type="text" name="nome" placeholder="Pesquisar produtos" />
 			<input type="submit" value="Procurar" />
-			<input type="button" value="Cadastrar Categoria" onclick="window.location.href='pages/categorias.php'">
-			<input type="button" value="Cadastrar Produtos" onclick="window.location.href='pages/produtos.php'">
-			<input type="button" value="Cadastrar usuario" onclick="window.location.href='pages/usuarios.php'">
+			<input type="button" value="Cadastrar Categoria" onclick="window.location.href='categorias.php'">
+			<input type="button" value="Cadastrar Produtos" onclick="window.location.href='produtos.php'">
+			<input type="button" value="Cadastrar usuario" onclick="window.location.href='usuarios.php'">
 		</form>
 	</div>
 </body>
